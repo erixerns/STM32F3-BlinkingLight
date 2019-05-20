@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Push Button STM32f3",
+			"path": "/home/shrey/Documents/tutorials/stm32/Push Button STM32f3"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/shrey/.platformio/penv/bin:/home/shrey/.platformio/penv:/usr/local/bin:/usr/local/sbin:/usr/bin:/opt/cuda/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/shrey/Muse",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
